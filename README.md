@@ -3,6 +3,7 @@
 This repo is a list of resources for learning Zero-Knowledge (ZK) protocols! The repo is a curated list of materials that have helped me get started and dive deep into the world of ZK. I'm continually expanding my knowledge—and I hope these resources help you on your journey too.
 
 > **Note:** This is an evolving list. Feel free to contribute by adding new resources or updating existing ones!
+> New additions can be seen with a "feat: __commit message__ " commit.
 
 ## Table of Contents
 
